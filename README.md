@@ -1,2 +1,2 @@
 # Rust_learning
-just testing learning Rust 
+just test learning Rust 
